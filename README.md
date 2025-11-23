@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @arashi256
-- 👀 I’m interested in C# and VR development
+- 👀 I’m interested in C#, retro arcade game development and Virtual reality.
 - 🌱 I’m currently learning ... Blender, Unity and C# as I go.
 - 📫 How to reach me ... @arashi256 on Threads (screw Twitter).
 
